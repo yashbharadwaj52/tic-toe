@@ -1,1 +1,1 @@
-#-html tic-tac-toe
+html-tic-tac-toe
